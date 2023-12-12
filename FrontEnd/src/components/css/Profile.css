@@ -1,0 +1,54 @@
+#profileBox{width: 50%;
+margin-top: -20px;
+margin-left: 100px;
+background-color: white;}
+
+#profileBox td{border: 0px solid white;
+text-align: center;}
+
+#mainHeading{color: rgb(77, 31, 31);
+letter-spacing: 9px;
+margin-left: 60px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;}
+
+#userProfileLogo{height: 300px;
+border-radius: 200px;
+width: 300px;}
+
+#label{color: rgb(77, 31, 31);
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+#wavePattern{height: 300px;
+width: 1000px;
+position: fixed;
+bottom: 0%;
+right:0%;}
+
+#backIcon{position: fixed;
+color: #274472;
+font-size: 25px;
+border-radius: 40px;
+transition-duration: 0.3s;
+padding: 10px 13px;
+border: 3px solid #274472;
+top: 3%;
+left: 3%;}
+
+#backIcon:hover{background-color: black;
+    color: white;}
+
+#editProfile, #logout{background-color: white;
+border: 2px solid #274472;
+color: #274472;
+transition-duration: 0.3s;
+margin: 20px 5px;
+padding: 5px 20px;
+font-size: 20px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-weight: bold;
+border-radius: 20px;}
+
+#editProfile:hover, #logout:hover{background-color: black;
+color: white;}

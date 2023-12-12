@@ -1,0 +1,63 @@
+#loginBox{width: 700px;
+    border-radius: 30px;
+    margin-top: 5%;
+    box-shadow: 10px 20px 20px #868686;
+    background-color: #274472;}
+    #loginBox td{text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 5px 15px;
+    width: 50%;
+    border: 0px solid black;}
+    
+    #main{background-color: #85b0d7;
+    padding: 20px 0;
+    margin: auto;
+    color: #274472;
+    letter-spacing: 3px;
+    font-size: 30px;
+    margin-top: -40px;
+    border-radius: 30px;
+    width: 60%;}
+    
+    #name, #phoneNumber, #email, #newPassword{color: white;
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    letter-spacing: 3px;}
+    
+    #inputName, #inputPhoneNumber, #inputEmail, #inputNewPassword{background-color: #274472;
+    height: 30px;
+    border: 3px solid white;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    border-radius: 10px;}
+    
+    #signInSubmit{background-color:  #274472;
+    border: 3px solid white;
+    padding: 5px 10px;
+    font-size: 30px;
+    transition-duration: 0.5s;
+    color: white;}
+    #signInSubmit:hover{background-color: black;
+    border: 3px solid black;
+    letter-spacing: 3px;
+    color: white;}
+    
+    #back-logo{color: #274472;
+        padding: 10px 0px;
+        border-radius: 70px;
+        width: 100px;
+        transition-duration: 0.5s;
+        border: 3px solid #274472;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-size: 20px;}
+        #back-logo:hover{background-color: black;
+        color: white;
+        border: 3px solid black;
+        font-weight: bold;}
+        
+        #plainText{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
